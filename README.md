@@ -1,7 +1,6 @@
 # cypress
 Automation web using cypress
 
-Nama kelompok:
+Nama anggota kelompok:
 1. indra martayuda
 2. martayuda
-3. indra
